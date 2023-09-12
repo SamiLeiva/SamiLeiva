@@ -1,9 +1,9 @@
 ## 👋 ¡Hola!  
-Soy una psicóloga argentina especializada en neuropsicología clínica y en estadística aplicada a las ciencias de la salud formada en la Universidad de Buenos Aires (UBA).  
+Soy una psicóloga argentina especializada en neuropsicología clínica y en estadística aplicada a las ciencias de la salud, formada en la Universidad de Buenos Aires (UBA).  
 
 :bulb: Me interesa todo lo relacionado con la evaluación neuropsicológica y la aplicación de métodos estadísticos al área de la salud mental.  
 
-:brain: Actualmente, integro equipos de investigación en los que estudiamos alteraciones cognitivas y comportamentales en personas adultas con condiciones neurológicas en la Facultad de Psicología de la UBA y en el Hospital Interzonal General de Agudos Eva Perón de San Martín, Buenos Aires (AR).  
+:brain: Actualmente, integro el equipo clínico y de investigación de la Unidad de Neuropsicología del Hospital Interzonal General de Agudos Eva Perón de San Martín, Buenos Aires (AR), y de grupos de investigación de la Facultad de Psicología de la UBA. En nuestro grupo de trabajo, estudiamos alteraciones cognitivas y comportamentales en personas adultas con distintas condiciones neurológicas y desarrollamos herramientas de evaluación neuropsicológica.  
 
 Actual aprendiz de R y RStudio.  
 
