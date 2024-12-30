@@ -3,10 +3,9 @@ Soy una psicóloga argentina especializada en neuropsicología clínica y en est
 
 :bulb: Me interesa todo lo relacionado con la evaluación neuropsicológica y los avances psicométricos en esta temática.  
 
-:brain: Actualmente, soy investigadora del Laboratorio de Investigación en Ciencias Humanas de la Universidad Nacional de San Marín (UNSAM) y neuropsicóloga clínica de la Unidad de Neuropsicología del Hospital Interzonal General de Agudos Eva Perón de San Martín, Buenos Aires (AR). Integro equipos que evalúan alteraciones cognitivas y comportamentales en personas adultas con distintas condiciones neurológicas y desarrollamos herramientas de evaluación neuropsicológica.  
+:brain: Actualmente, soy investigadora del Laboratorio de Investigación en Ciencias Humanas de la Universidad Nacional de San Marín (UNSAM) y neuropsicóloga clínica de la Unidad de Neuropsicología del Hospital Interzonal General de Agudos Eva Perón. Integro equipos que evalúan alteraciones cognitivas y comportamentales en personas adultas con distintas condiciones neurológicas y desarrollamos herramientas de evaluación neuropsicológica.  
 
-
-[![Website](https://img.shields.io/website?up_message=web&url=http%3A%2F%2Fsamantaleiva.netlify.app%2F&label=Sitio)](http://samantaleiva.netlify.app/)}
+[![Website](https://img.shields.io/website?up_message=web&url=http%3A%2F%2Fsamantaleiva.netlify.app%2F&label=Sitio)](http://samantaleiva.netlify.app/)
 
 
 
